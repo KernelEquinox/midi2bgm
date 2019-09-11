@@ -2,7 +2,7 @@ MIDI to Paper Mario BGM Converter
 =====
 This is a tool for Paper Mario that converts MIDI files into game-ready BGM files for use with Star Rod, etc.
 
-Based on the MIDI tool from the N64-Tools repo.
+Based on the MIDI tool from the [N64-Tools](https://github.com/jombo23/N64-Tools) repo.
 
 **Note:** This is a CLI tool and must be run from the command line. A GUI version is planned for the future.
 
